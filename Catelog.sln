@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Console", "Catelog.Console\Catelog.Console.csproj", "{42D6409A-3B0C-4450-AC93-B689F3DE3E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Domain", "Catelog.Domain\Catelog.Domain.csproj", "{22D0F3CD-A9DF-4B86-A36F-64B249B7375A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Repository", "Catelog.Repository\Catelog.Repository.csproj", "{962F2148-5176-4D0D-93F3-33B5A34B6757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{42D6409A-3B0C-4450-AC93-B689F3DE3E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D6409A-3B0C-4450-AC93-B689F3DE3E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D6409A-3B0C-4450-AC93-B689F3DE3E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D0F3CD-A9DF-4B86-A36F-64B249B7375A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D0F3CD-A9DF-4B86-A36F-64B249B7375A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D0F3CD-A9DF-4B86-A36F-64B249B7375A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D0F3CD-A9DF-4B86-A36F-64B249B7375A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
