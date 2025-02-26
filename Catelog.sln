@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Domain", "Catelog.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Repository", "Catelog.Repository\Catelog.Repository.csproj", "{962F2148-5176-4D0D-93F3-33B5A34B6757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catelog.Test", "Catelog.Test\Catelog.Test.csproj", "{E2320F36-230E-4805-8D47-834749312B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962F2148-5176-4D0D-93F3-33B5A34B6757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2320F36-230E-4805-8D47-834749312B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2320F36-230E-4805-8D47-834749312B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2320F36-230E-4805-8D47-834749312B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2320F36-230E-4805-8D47-834749312B39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
