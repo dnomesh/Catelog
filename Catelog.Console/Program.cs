@@ -1,12 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using Catelog.Console.Services;
-using Catelog.Domain.Models;
 using Catelog.Repository.Repositories;
-using ExcelDataReader;
-using Microsoft.Extensions.Configuration;
-using System.Data;
-using System.Text;
 
 string? catelogConnectionString = string.Empty;
 CatelogDbContext db = new CatelogDbContext();
